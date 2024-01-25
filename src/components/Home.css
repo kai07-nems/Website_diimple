@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.home{
+    background-color: #8c8c8c;
+    height: 95%;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+
+}
+.main--image{
+    max-width: 40vw;
+}
+h2{
+    font-size: large;
+    text-align: center;
+    font-family: serif;
+}

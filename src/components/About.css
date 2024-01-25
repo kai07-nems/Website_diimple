@@ -1,0 +1,15 @@
+.about{
+    background-color:#5987ad;
+    height: 140%;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+
+}
+.main-image{
+    max-width: 40vw;
+}
+p{
+    font-size: medium;
+    font: 1em sans-serif;
+}

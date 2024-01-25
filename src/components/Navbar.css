@@ -1,0 +1,13 @@
+.navbar{
+    background-color:#5987ad;
+    height: 12%;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+}
+h3{
+    font: 1em sans-serif;
+    font-size: x-large;
+    text-align: center;
+    padding: 1.5rem;
+}
